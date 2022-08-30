@@ -59,5 +59,3 @@ if (hamburger && cola || fries === 3 && nuggets) {
    console.log('Error');
 }
 // Error (+)\
-
-console.log( 5 ===5 && 3 > 1 || 5);
